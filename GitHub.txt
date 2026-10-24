@@ -1,0 +1,22 @@
+GitHub:
+GitHub is a platform where we can store the project related code 
+ Git:(global information tracker)
+Git is version control system, that tracks the changes in a set of files
+
+three components
+1.working directory
+2.staging area
+3.remote repo
+
+how to sent the code to the GitHub
+1.
+
+
+
+
+
+
+
+
+
+
